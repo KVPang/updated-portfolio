@@ -4,3 +4,18 @@
     font-family: Georgia;
     font-size: 30px;
 }
+
+ul {
+    font-family: 'Courier New';
+    font-size: 35px;
+}
+
+#about-me img {
+    height: 170px;
+    width: 170px;
+    margin: 10px;
+}
+
+#about-me {
+    text-align: center;
+}
