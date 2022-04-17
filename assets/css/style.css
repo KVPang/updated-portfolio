@@ -13,9 +13,17 @@ ul {
 #about-me img {
     height: 170px;
     width: 170px;
-    margin: 10px;
+    margin: 6px;
 }
 
 #about-me {
+    text-align: center;
+}
+
+#portfolio {
+    text-align: center;
+}
+
+#contact-me {
     text-align: center;
 }
