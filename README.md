@@ -27,6 +27,11 @@
 ![desktop view - bottom of page](./assets/images/page(2).JPG)
 ![mobile-view](./assets/images/page(mobile).JPG)
 
+## Technologies Used
+- HTML
+- CSS
+- CSS Framework - Materialize
+
 ## Links
 - GitHub: https://github.com/KVPang/updated-portfolio
 - Deployed: https://kvpang.github.io/updated-portfolio/
